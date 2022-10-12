@@ -540,3 +540,21 @@ Group ID: L0s12WLZdW5D98LLWKhXtd
 Image: Pedido_2022-10-11.png
 Caption: 2022-10-11
 --------------------
+Date: 12/10/2022
+Time: 12:13
+Group ID: L0s12WLZdW5D98LLWKhXtd
+Image: Pedido_2022-10-12.png
+Caption: 2022-10-12
+--------------------
+Date: 12/10/2022
+Time: 12:13
+Group ID: L0s12WLZdW5D98LLWKhXtd
+Image: Pedido_2022-10-12.png
+Caption: 2022-10-12
+--------------------
+Date: 12/10/2022
+Time: 12:14
+Group ID: L0s12WLZdW5D98LLWKhXtd
+Image: Pedido_2022-10-12.png
+Caption: 2022-10-12
+--------------------

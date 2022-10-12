@@ -1,10 +1,10 @@
 import pywhatkit
 from datetime import datetime, timedelta
-from create_file import create_file
-from get_pedido_content import get_pedido_content
-from get_products import get_products
-from create_image import create_img
-from reformat_fimg import format_img
+from utils.create_file import create_file
+from utils.get_pedido_content import get_pedido_content
+from utils.get_products import get_products
+from utils.create_image import create_img
+from utils.reformat_fimg import format_img
 
 
 path = "C:/Users/wilye/Downloads/Orden .pdf"
